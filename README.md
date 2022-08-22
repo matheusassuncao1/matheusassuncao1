@@ -33,8 +33,8 @@
  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
  
  <a href="teteuscunha" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
- 
-
 </div>
+
+![snake gif](https://github.com/matheusassuncao1/matheusassuncao1/blob/output/github-contribution-grid-snake.svg)
 
 
