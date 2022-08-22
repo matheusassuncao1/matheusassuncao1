@@ -1,10 +1,10 @@
-### Olá! Me Chamo Matheus Assunção 
+### Hi! My name is Matheus Assunção
 
 <div>
-  <a href="https://github.com/matheusassuncao18">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=matheusassuncao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/matheusassuncao1">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=matheusassuncao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassuncao1&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassuncao1&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ### Langs Experience <h3>
@@ -35,6 +35,6 @@
  <a href="teteuscunha" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/matheusassuncao1/matheusassuncao1/blob/output/github-contribution-grid-snake.svg)
-
+##### Technology lover, looking to meet new knowledge, expand new horizons. 😊  <h5>
+ 
 
