@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!+I'm+Matheus;I'm+studying+Systems+Analysis+and+Development;Project+Automation%2C+Game+and+Website+Development;If+you+have+any+questions%2C+don't+hesitate+to+call!;welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -60,4 +60,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusassuncao1}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=footer"/>
